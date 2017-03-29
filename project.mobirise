@@ -806,7 +806,7 @@
           },
           "title": "Just registered",
           "text": "please wait patiently while we merge you.....",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">AMOUNT PAID:N00.00<br><br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">AMOUNT RECEIVED:N00.00<br><br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">E WALLET UNIT:N00.00<br><br></a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">AMOUNT PAID:N00.00<br><br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">AMOUNT RECEIVED:N00.00<br><br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">E wallet:N00.00<br><br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://nairainsurance.yn.lt/login\" data-toolbar=\"-mbrBtnMove\">log out<br></a>  "
         }
       ]
     }
